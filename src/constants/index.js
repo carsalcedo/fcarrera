@@ -3,19 +3,19 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Inicio",
   },
   {
     id: "features",
-    title: "Features",
+    title: "Servicios",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Productos",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Clientes",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Soporte Técnico",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "El mejor mantenimiento para tus equipos en tu hogar o empresa",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% de garantia",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Nos preocupamos por que tus equipos funcionen correctamente antes de entregarlos",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Servicio Domicilio",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Nos dirigimos a tu domicilio o empresa para solucionar directamente los servicios que requieras",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Me agrada poder trabajar con equipos que funcionen correctamente. Gracias por un buen servicio",
+    name: "Lina Quin",
+    title: "Manager de Redes",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Un equipo de trabajo en buen funcionamiento y un sitio web atractivo y buen posicionamiento",
+    name: "Elias Perdomo",
+    title: "Gerente",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Buen servicio y atención, trabajo 100% dedicado ademas de ofrecer nuevas soluciones y consejos",
+    name: "Carlos Narvaez",
+    title: "Asesor",
     img: people03,
   },
 ];
@@ -73,60 +73,60 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Clientes",
+    value: "700+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Aliados Comerciales",
+    value: "30+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Sucursales",
+    value: "2+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Links de Utilidad",
     links: [
       {
-        name: "Content",
+        name: "Contenido",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Como trabajamos",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Creaciones",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Explorar",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Terminos & Servicios",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Comunidad",
     links: [
       {
-        name: "Help Center",
+        name: "Sucursales",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Aliados",
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Servicios",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
@@ -134,20 +134,20 @@ export const footerLinks = [
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "Newsletters",
+        name: "Novedades",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
   },
   {
-    title: "Partner",
+    title: "Alianzas",
     links: [
       {
-        name: "Our Partner",
+        name: "Nuestros Aliados",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Sé un Aliado",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
@@ -158,7 +158,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/fcarrera_dev/?hl=es",
   },
   {
     id: "social-media-2",
@@ -173,7 +173,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/fernando-carrera-34aa28130/",
   },
 ];
 
