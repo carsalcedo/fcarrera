@@ -7,7 +7,7 @@ import dropbox from "./hostinger.png";
 import logo from "./logo.svg";
 import logoFC from "./logoFC.png"
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
+import robot from "./robot3.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
